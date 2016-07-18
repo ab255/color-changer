@@ -1,14 +1,38 @@
 body {
   align-items: center;
+  background: #FFFFFF;
   box-sizing: border-box;
   display:flex;
+  font-family: 'Open Sans', sans-serif;
+  height: 100vh;
+  justify-content: center;
 }
 
 .btn {
   background: #E5B6D5;
   border-width: 6px;
   border-color: #B2479A #CC7FB5;
+  border-style: solid;
   color: white;
+  font-size: 15px;
+  font-weight: bold;
+  margin: 0 20px;
   width: 100px;
   height: 50px;
+}
+
+.btn:hover {
+  background: #B2479A;
+  border-color: #CC7FB5 #E5B6D5;
+}
+
+
+@ @media max-width 700px; {
+
+  body {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+
 }
