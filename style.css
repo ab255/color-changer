@@ -36,11 +36,12 @@ body {
 
 @media (max-width: 780px) {
   body {
+    display: flex;
     flex-direction: column;
+    height: 100vh;
   }
 
   .btn {
-    border-radius: 0;
     font-size: 35px;
     margin: 1em;
     width: 250px;
