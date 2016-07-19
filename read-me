@@ -1,0 +1,8 @@
+I'm just leaving a note about an issue I was experiencing and am still trying to figure out.  
+I talked to Louisa this morning about it so she does know what is happening.  
+So in the phone view with the developer tools it shows my buttons as squares and I didn't think anything of it.
+This morning I tried opening my site on my phone and the buttons had rounded corners.
+I looked through my code and tried a bunch of troubleshooting ideas with no success.
+I talked to other students and their buttons came up as squares on their phones but when they tried my site they came up with rounded corners again.
+We looked over the code to see if there was any big differences and there was nothing different in our css files.
+I am looking into figuring out how to fix this.
