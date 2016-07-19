@@ -10,8 +10,9 @@ body {
 
 .btn {
   background: #E5B6D5;
-  border: .35em solid;
+  border: .35em;
   border-color: #B2479A #CC7FB5;
+  border-style: outset;
   color: white;
   font: bold 55px "Open Sans", sans-serif;
   letter-spacing: .15em;
@@ -47,6 +48,7 @@ body {
 
   .reset-button {
     border: .5em solid;
+    border-color: #B2479A #CC7FB5;
     font-size: 20px;
     height: 3em;
   }
