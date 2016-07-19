@@ -14,7 +14,6 @@ $('.random-button-js').on('click', function() {
   $('body').css('backgroundColor', "#" + color);
 });
 
-
 $('.reset-button-js').on('click', function() {
   $('body').css('background', '#ffffff');
 });

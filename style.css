@@ -10,13 +10,10 @@ body {
 
 .btn {
   background: #E5B6D5;
-  border-width: .35em;
+  border: .35em solid;
   border-color: #B2479A #CC7FB5;
-  border-style: solid;
   color: white;
-  font-family: 'Open Sans', sans-serif;
-  font-size: 55px;
-  font-weight: bold;
+  font: bold 55px "Open Sans", sans-serif;
   letter-spacing: .15em;
   margin: 0 1em;
   padding: 0;
