@@ -10,7 +10,7 @@ body {
 
 .btn {
   background: #E5B6D5;
-  border: .35em;
+  border: .35em solid;
   border-color: #B2479A #CC7FB5;
   border-style: outset;
   color: white;
@@ -49,6 +49,7 @@ body {
   .reset-button {
     border: .5em solid;
     border-color: #B2479A #CC7FB5;
+    border-radius: 0;
     font-size: 20px;
     height: 3em;
   }
