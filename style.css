@@ -40,13 +40,14 @@ body {
   }
 
   .btn {
+    border-radius: 0;
     font-size: 35px;
     margin: 1em;
     width: 250px;
   }
 
   .reset-button {
-    border-width: .5em;
+    border: .5em solid;
     font-size: 20px;
     height: 3em;
   }
